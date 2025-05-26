@@ -1,6 +1,6 @@
 # Vercel Inspired - Vite React Template
 
-Demo: react-vite-saas-template.vercel.app
+<a href="https://react-vite-saas-template.vercel.app" target="_blank">Demo</a>
 
 A modern, responsive landing page template based on Vercel, built with React, TypeScript, and Tailwind CSS. This project showcases a beautiful and accessible SaaS landing page with smooth animations and modern design principles.
 
