@@ -43,13 +43,9 @@ export const Hero = () => {
           <div className="w-full lg:w-1/2 lg:pl-12">
             <AnimatedTerminal commands={terminalCommands} className="shadow-xl" />
           </div>
-
         </div>
-
       </div>
       <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-background to-transparent pointer-events-none"></div>
     </div>
   );
-};
-};
 };

@@ -1,4 +1,4 @@
-# Deployify - Modern React Template
+# Vercel Inspired - Vite React Template
 
 A modern, responsive landing page template based on Vercel, built with React, TypeScript, and Tailwind CSS. This project showcases a beautiful and accessible SaaS landing page with smooth animations and modern design principles.
 
@@ -12,6 +12,8 @@ A modern, responsive landing page template based on Vercel, built with React, Ty
 Before you begin, ensure you have the following installed:
 - Node.js (v16 or higher)
 - npm or yarn
+
+## Installation
 
 1. Install dependencies:
 ```bash
@@ -29,6 +31,27 @@ yarn dev
 
 3. Open [http://localhost:5173](http://localhost:5173) in your browser to see the result.
 
+## Build
+
+To create a production build:
+
+```bash
+npm run build
+# or
+yarn build
+```
+
+To preview the production build:
+
+```bash
+npm run preview
+# or
+yarn preview
+```
+
+## Dependencies
+
+### Production Dependencies
 
 | Package | Version | Description |
 |---------|---------|-------------|
